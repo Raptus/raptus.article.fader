@@ -1,16 +1,17 @@
 Introduction
 ============
 
-Following features for raptus.article are provided by this package:
+The following features for raptus.article are provided by this package:
 
-    * Components:
-        * Image fader (continually fades in and out the images contained in the article)
-        * Image fader left (Image fader on the left side which continually fades in and out the images contained in the article)
-        * Image fader right (Image fader on the right side which continually fades in and out the images contained in the article)
-        * Image fader teaser (continually fades in and out the images contained in the article and is displayed above the columns)
+Components
+----------
+    * Image fader (continually fades in and out the images contained in the article)
+    * Image fader left (Image fader on the left side which continually fades in and out the images contained in the article)
+    * Image fader right (Image fader on the right side which continually fades in and out the images contained in the article)
+    * Image fader teaser (continually fades in and out the images contained in the article and is displayed above the columns)
 
-Dependencies:
-
+Dependencies
+------------
     * raptus.inlinelightbox
     * raptus.article.images
 
@@ -58,7 +59,5 @@ in the article in which this component is active.
 Copyright and credits
 =====================
 
-raptus.article is copyrighted by raptus_, and licensed under the GPL. 
+raptus.article is copyrighted by `Raptus AG <http://raptus.com>`_ and licensed under the GPL. 
 See LICENSE.txt for details.
-
-.. _raptus: http://raptus.com/ 

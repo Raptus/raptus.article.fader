@@ -10,12 +10,13 @@ Code overview
 
 Components
 ----------
-plone.abovecontentbody
 
+plone.abovecontentbody
+``````````````````````
 - raptus.article.fader.right
 - raptus.article.fader.left
 - raptus.article.fader.full
 
 plone.portaltop
-
+```````````````
 - raptus.article.fader.teaser
